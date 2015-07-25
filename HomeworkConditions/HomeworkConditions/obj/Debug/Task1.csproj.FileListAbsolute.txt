@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\HomeworkConditions\HomeworkConditions\bin\Debug\HomeworkConditions.exe.config
+C:\Users\Pablo\Desktop\HomeworkConditions\HomeworkConditions\bin\Debug\HomeworkConditions.exe
+C:\Users\Pablo\Desktop\HomeworkConditions\HomeworkConditions\bin\Debug\HomeworkConditions.pdb
+C:\Users\Pablo\Desktop\HomeworkConditions\HomeworkConditions\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\HomeworkConditions\HomeworkConditions\obj\Debug\HomeworkConditions.exe
+C:\Users\Pablo\Desktop\HomeworkConditions\HomeworkConditions\obj\Debug\HomeworkConditions.pdb

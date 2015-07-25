@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\HomeworkDataTypes\HomeworkDataTypes\bin\Debug\HomeworkDataTypes.exe.config
+C:\Users\Pablo\Desktop\HomeworkDataTypes\HomeworkDataTypes\bin\Debug\HomeworkDataTypes.exe
+C:\Users\Pablo\Desktop\HomeworkDataTypes\HomeworkDataTypes\bin\Debug\HomeworkDataTypes.pdb
+C:\Users\Pablo\Desktop\HomeworkDataTypes\HomeworkDataTypes\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\HomeworkDataTypes\HomeworkDataTypes\obj\Debug\HomeworkDataTypes.exe
+C:\Users\Pablo\Desktop\HomeworkDataTypes\HomeworkDataTypes\obj\Debug\HomeworkDataTypes.pdb

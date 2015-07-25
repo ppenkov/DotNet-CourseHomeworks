@@ -1,0 +1,5 @@
+C:\Users\Pablo\Desktop\HomeworkDataTypes\Task5\bin\Debug\Task5.exe.config
+C:\Users\Pablo\Desktop\HomeworkDataTypes\Task5\bin\Debug\Task5.exe
+C:\Users\Pablo\Desktop\HomeworkDataTypes\Task5\bin\Debug\Task5.pdb
+C:\Users\Pablo\Desktop\HomeworkDataTypes\Task5\obj\Debug\Task5.exe
+C:\Users\Pablo\Desktop\HomeworkDataTypes\Task5\obj\Debug\Task5.pdb
