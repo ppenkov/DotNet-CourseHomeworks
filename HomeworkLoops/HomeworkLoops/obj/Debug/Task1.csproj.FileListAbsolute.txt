@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\HomeworkLoops\HomeworkLoops\bin\Debug\HomeworkLoops.exe.config
+C:\Users\Pablo\Desktop\HomeworkLoops\HomeworkLoops\bin\Debug\HomeworkLoops.exe
+C:\Users\Pablo\Desktop\HomeworkLoops\HomeworkLoops\bin\Debug\HomeworkLoops.pdb
+C:\Users\Pablo\Desktop\HomeworkLoops\HomeworkLoops\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\HomeworkLoops\HomeworkLoops\obj\Debug\HomeworkLoops.exe
+C:\Users\Pablo\Desktop\HomeworkLoops\HomeworkLoops\obj\Debug\HomeworkLoops.pdb
