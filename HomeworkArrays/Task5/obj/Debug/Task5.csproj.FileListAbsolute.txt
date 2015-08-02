@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\HomeworkArrays\Task5\bin\Debug\Task5.exe.config
+C:\Users\Pablo\Desktop\HomeworkArrays\Task5\bin\Debug\Task5.exe
+C:\Users\Pablo\Desktop\HomeworkArrays\Task5\bin\Debug\Task5.pdb
+C:\Users\Pablo\Desktop\HomeworkArrays\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\HomeworkArrays\Task5\obj\Debug\Task5.exe
+C:\Users\Pablo\Desktop\HomeworkArrays\Task5\obj\Debug\Task5.pdb

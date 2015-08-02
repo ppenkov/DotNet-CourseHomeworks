@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\HomeworkMethodsAndRecursion\Task3\bin\Debug\Task3.exe.config
+C:\Users\Pablo\Desktop\HomeworkMethodsAndRecursion\Task3\bin\Debug\Task3.exe
+C:\Users\Pablo\Desktop\HomeworkMethodsAndRecursion\Task3\bin\Debug\Task3.pdb
+C:\Users\Pablo\Desktop\HomeworkMethodsAndRecursion\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\HomeworkMethodsAndRecursion\Task3\obj\Debug\Task3.exe
+C:\Users\Pablo\Desktop\HomeworkMethodsAndRecursion\Task3\obj\Debug\Task3.pdb

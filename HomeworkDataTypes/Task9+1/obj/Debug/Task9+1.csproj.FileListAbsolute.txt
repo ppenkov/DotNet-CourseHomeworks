@@ -4,3 +4,6 @@ C:\Users\Pablo\Desktop\HomeworkDataTypes\Task9+1\bin\Debug\Task9+1.pdb
 C:\Users\Pablo\Desktop\HomeworkDataTypes\Task9+1\obj\Debug\Task9+1.exe
 C:\Users\Pablo\Desktop\HomeworkDataTypes\Task9+1\obj\Debug\Task9+1.pdb
 C:\Users\Pablo\Desktop\HomeworkDataTypes\Task9+1\obj\Debug\Task9+1.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkDataTypes\Task9+1\bin\Debug\Task9+1.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkDataTypes\Task9+1\obj\Debug\Task9+1.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkDataTypes\Task9+1\obj\Debug\Task9+1.pdb
