@@ -4,3 +4,6 @@ C:\Users\Pablo\Desktop\HomeworkArrays\HomeworkArrays\bin\Debug\HomeworkArrays.ex
 C:\Users\Pablo\Desktop\HomeworkArrays\HomeworkArrays\bin\Debug\HomeworkArrays.pdb
 C:\Users\Pablo\Desktop\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.exe
 C:\Users\Pablo\Desktop\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkArrays\HomeworkArrays\bin\Debug\HomeworkArrays.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.pdb

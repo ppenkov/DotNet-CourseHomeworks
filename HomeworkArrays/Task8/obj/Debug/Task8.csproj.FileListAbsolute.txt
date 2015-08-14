@@ -4,3 +4,6 @@ C:\Users\Pablo\Desktop\HomeworkArrays\Task8\bin\Debug\Task8.pdb
 C:\Users\Pablo\Desktop\HomeworkArrays\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
 C:\Users\Pablo\Desktop\HomeworkArrays\Task8\obj\Debug\Task8.exe
 C:\Users\Pablo\Desktop\HomeworkArrays\Task8\obj\Debug\Task8.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkArrays\Task8\bin\Debug\Task8.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkArrays\Task8\obj\Debug\Task8.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkArrays\Task8\obj\Debug\Task8.pdb

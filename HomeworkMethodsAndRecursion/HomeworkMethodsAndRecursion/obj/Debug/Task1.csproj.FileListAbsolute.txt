@@ -3,3 +3,6 @@ C:\Users\Pablo\Desktop\HomeworkMethodsAndRecursion\HomeworkMethodsAndRecursion\b
 C:\Users\Pablo\Desktop\HomeworkMethodsAndRecursion\HomeworkMethodsAndRecursion\bin\Debug\HomeworkMethodsAndRecursion.pdb
 C:\Users\Pablo\Desktop\HomeworkMethodsAndRecursion\HomeworkMethodsAndRecursion\obj\Debug\HomeworkMethodsAndRecursion.exe
 C:\Users\Pablo\Desktop\HomeworkMethodsAndRecursion\HomeworkMethodsAndRecursion\obj\Debug\HomeworkMethodsAndRecursion.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkMethodsAndRecursion\HomeworkMethodsAndRecursion\bin\Debug\HomeworkMethodsAndRecursion.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkMethodsAndRecursion\HomeworkMethodsAndRecursion\obj\Debug\HomeworkMethodsAndRecursion.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkMethodsAndRecursion\HomeworkMethodsAndRecursion\obj\Debug\HomeworkMethodsAndRecursion.pdb

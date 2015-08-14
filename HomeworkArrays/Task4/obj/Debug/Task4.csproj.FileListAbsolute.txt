@@ -3,3 +3,6 @@ C:\Users\Pablo\Desktop\HomeworkArrays\Task4\bin\Debug\Task4.exe
 C:\Users\Pablo\Desktop\HomeworkArrays\Task4\bin\Debug\Task4.pdb
 C:\Users\Pablo\Desktop\HomeworkArrays\Task4\obj\Debug\Task4.exe
 C:\Users\Pablo\Desktop\HomeworkArrays\Task4\obj\Debug\Task4.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkArrays\Task4\bin\Debug\Task4.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkArrays\Task4\obj\Debug\Task4.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkArrays\Task4\obj\Debug\Task4.pdb
