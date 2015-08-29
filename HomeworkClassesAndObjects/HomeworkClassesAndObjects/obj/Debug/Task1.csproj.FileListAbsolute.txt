@@ -4,3 +4,6 @@ C:\Users\Pablo\Desktop\HomeworkClassesAndObjects\HomeworkClassesAndObjects\bin\D
 C:\Users\Pablo\Desktop\HomeworkClassesAndObjects\HomeworkClassesAndObjects\obj\Debug\Task1.csprojResolveAssemblyReference.cache
 C:\Users\Pablo\Desktop\HomeworkClassesAndObjects\HomeworkClassesAndObjects\obj\Debug\HomeworkClassesAndObjects.exe
 C:\Users\Pablo\Desktop\HomeworkClassesAndObjects\HomeworkClassesAndObjects\obj\Debug\HomeworkClassesAndObjects.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkClassesAndObjects\HomeworkClassesAndObjects\bin\Debug\HomeworkClassesAndObjects.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkClassesAndObjects\HomeworkClassesAndObjects\obj\Debug\HomeworkClassesAndObjects.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkClassesAndObjects\HomeworkClassesAndObjects\obj\Debug\HomeworkClassesAndObjects.pdb

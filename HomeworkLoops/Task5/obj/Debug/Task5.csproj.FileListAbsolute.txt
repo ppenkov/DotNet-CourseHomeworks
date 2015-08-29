@@ -3,3 +3,6 @@ C:\Users\Pablo\Desktop\HomeworkLoops\Task5\bin\Debug\Task5.exe
 C:\Users\Pablo\Desktop\HomeworkLoops\Task5\bin\Debug\Task5.pdb
 C:\Users\Pablo\Desktop\HomeworkLoops\Task5\obj\Debug\Task5.exe
 C:\Users\Pablo\Desktop\HomeworkLoops\Task5\obj\Debug\Task5.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkLoops\Task5\bin\Debug\Task5.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkLoops\Task5\obj\Debug\Task5.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkLoops\Task5\obj\Debug\Task5.pdb
