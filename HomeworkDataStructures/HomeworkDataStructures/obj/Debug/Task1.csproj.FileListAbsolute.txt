@@ -4,3 +4,6 @@ C:\Users\Pablo\Desktop\HomeworkDataStructures\HomeworkDataStructures\bin\Debug\H
 C:\Users\Pablo\Desktop\HomeworkDataStructures\HomeworkDataStructures\obj\Debug\Task1.csprojResolveAssemblyReference.cache
 C:\Users\Pablo\Desktop\HomeworkDataStructures\HomeworkDataStructures\obj\Debug\HomeworkDataStructures.exe
 C:\Users\Pablo\Desktop\HomeworkDataStructures\HomeworkDataStructures\obj\Debug\HomeworkDataStructures.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkDataStructures\HomeworkDataStructures\bin\Debug\HomeworkDataStructures.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkDataStructures\HomeworkDataStructures\obj\Debug\HomeworkDataStructures.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkDataStructures\HomeworkDataStructures\obj\Debug\HomeworkDataStructures.pdb

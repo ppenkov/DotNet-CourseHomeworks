@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\HomeworkAlgorithms\HomeworkAlgorithms\bin\Debug\HomeworkAlgorithms.exe.config
+C:\Users\Pablo\Desktop\HomeworkAlgorithms\HomeworkAlgorithms\bin\Debug\HomeworkAlgorithms.exe
+C:\Users\Pablo\Desktop\HomeworkAlgorithms\HomeworkAlgorithms\bin\Debug\HomeworkAlgorithms.pdb
+C:\Users\Pablo\Desktop\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\HomeworkAlgorithms.exe
+C:\Users\Pablo\Desktop\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\HomeworkAlgorithms.pdb
