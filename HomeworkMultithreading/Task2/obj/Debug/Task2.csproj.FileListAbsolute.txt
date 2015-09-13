@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\HomeworkMultithreading\Task2\bin\Debug\Task2.exe.config
+C:\Users\Pablo\Desktop\HomeworkMultithreading\Task2\bin\Debug\Task2.exe
+C:\Users\Pablo\Desktop\HomeworkMultithreading\Task2\bin\Debug\Task2.pdb
+C:\Users\Pablo\Desktop\HomeworkMultithreading\Task2\obj\Debug\Task2.exe
+C:\Users\Pablo\Desktop\HomeworkMultithreading\Task2\obj\Debug\Task2.pdb
+C:\Users\Pablo\Desktop\HomeworkMultithreading\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
