@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\HomeworkExceptions\HomeworkExceptions\bin\Debug\HomeworkExceptions.exe.config
+C:\Users\Pablo\Desktop\HomeworkExceptions\HomeworkExceptions\bin\Debug\HomeworkExceptions.exe
+C:\Users\Pablo\Desktop\HomeworkExceptions\HomeworkExceptions\bin\Debug\HomeworkExceptions.pdb
+C:\Users\Pablo\Desktop\HomeworkExceptions\HomeworkExceptions\obj\Debug\HomeworkExceptions.exe
+C:\Users\Pablo\Desktop\HomeworkExceptions\HomeworkExceptions\obj\Debug\HomeworkExceptions.pdb
+C:\Users\Pablo\Desktop\HomeworkExceptions\HomeworkExceptions\obj\Debug\Task1.csprojResolveAssemblyReference.cache

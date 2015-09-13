@@ -4,3 +4,6 @@ C:\Users\Pablo\Desktop\HomeworkAlgorithms\HomeworkAlgorithms\bin\Debug\HomeworkA
 C:\Users\Pablo\Desktop\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\Task1.csprojResolveAssemblyReference.cache
 C:\Users\Pablo\Desktop\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\HomeworkAlgorithms.exe
 C:\Users\Pablo\Desktop\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\HomeworkAlgorithms.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkAlgorithms\HomeworkAlgorithms\bin\Debug\HomeworkAlgorithms.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\HomeworkAlgorithms.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\HomeworkAlgorithms.pdb
