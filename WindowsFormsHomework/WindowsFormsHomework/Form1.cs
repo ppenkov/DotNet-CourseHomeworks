@@ -31,10 +31,6 @@ namespace WindowsFormsHomework
 
             using (StreamWriter writer = new StreamWriter("text.txt"))
             {
-                string.Format(textBox1.Text);
-                string.Format(textBox2.Text);
-                string.Format(textBox3.Text);
-
                 writer.WriteLine(label1.Text + " " + textBox1.Text);
                 writer.WriteLine(label2.Text + " " + textBox2.Text);
                 writer.WriteLine(label3.Text + " " + textBox3.Text);
