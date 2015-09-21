@@ -1,0 +1,9 @@
+C:\Users\Pablo\Desktop\WindowsFormsHomework\WindowsFormsHomework\bin\Debug\WindowsFormsHomework.exe.config
+C:\Users\Pablo\Desktop\WindowsFormsHomework\WindowsFormsHomework\bin\Debug\WindowsFormsHomework.exe
+C:\Users\Pablo\Desktop\WindowsFormsHomework\WindowsFormsHomework\bin\Debug\WindowsFormsHomework.pdb
+C:\Users\Pablo\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.Form1.resources
+C:\Users\Pablo\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.Properties.Resources.resources
+C:\Users\Pablo\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.csproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.exe
+C:\Users\Pablo\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.pdb

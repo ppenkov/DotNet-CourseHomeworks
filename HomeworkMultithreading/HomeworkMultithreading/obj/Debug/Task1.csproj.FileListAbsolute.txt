@@ -4,3 +4,6 @@ C:\Users\Pablo\Desktop\HomeworkMultithreading\HomeworkMultithreading\bin\Debug\H
 C:\Users\Pablo\Desktop\HomeworkMultithreading\HomeworkMultithreading\obj\Debug\HomeworkMultithreading.exe
 C:\Users\Pablo\Desktop\HomeworkMultithreading\HomeworkMultithreading\obj\Debug\HomeworkMultithreading.pdb
 C:\Users\Pablo\Desktop\HomeworkMultithreading\HomeworkMultithreading\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkMultithreading\HomeworkMultithreading\bin\Debug\HomeworkMultithreading.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkMultithreading\HomeworkMultithreading\obj\Debug\HomeworkMultithreading.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkMultithreading\HomeworkMultithreading\obj\Debug\HomeworkMultithreading.pdb

@@ -3,3 +3,6 @@ C:\Users\Pablo\Desktop\HomeworkStringsAndTextManipulations\Task5\bin\Debug\Task5
 C:\Users\Pablo\Desktop\HomeworkStringsAndTextManipulations\Task5\bin\Debug\Task5.pdb
 C:\Users\Pablo\Desktop\HomeworkStringsAndTextManipulations\Task5\obj\Debug\Task5.exe
 C:\Users\Pablo\Desktop\HomeworkStringsAndTextManipulations\Task5\obj\Debug\Task5.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkStringsAndTextManipulations\Task5\bin\Debug\Task5.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkStringsAndTextManipulations\Task5\obj\Debug\Task5.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkStringsAndTextManipulations\Task5\obj\Debug\Task5.pdb
