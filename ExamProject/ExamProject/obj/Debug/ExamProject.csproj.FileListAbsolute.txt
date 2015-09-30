@@ -1,0 +1,12 @@
+C:\Users\Pablo\Desktop\ExamProject\ExamProject\bin\ExamProject.dll.config
+C:\Users\Pablo\Desktop\ExamProject\ExamProject\bin\ExamProject.dll
+C:\Users\Pablo\Desktop\ExamProject\ExamProject\bin\ExamProject.pdb
+C:\Users\Pablo\Desktop\ExamProject\ExamProject\obj\Debug\ExamProject.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\ExamProject\ExamProject\obj\Debug\ExamProject.dll
+C:\Users\Pablo\Desktop\ExamProject\ExamProject\obj\Debug\ExamProject.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\ExamProject\ExamProject\bin\ExamProject.dll.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\ExamProject\ExamProject\bin\ExamProject.dll
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\ExamProject\ExamProject\bin\ExamProject.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\ExamProject\ExamProject\obj\Debug\ExamProject.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\ExamProject\ExamProject\obj\Debug\ExamProject.dll
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\ExamProject\ExamProject\obj\Debug\ExamProject.pdb

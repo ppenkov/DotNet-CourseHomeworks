@@ -1,1 +1,2 @@
 C:\Users\Pablo\Desktop\HomeworkAlgorithms\Task3\bin\Debug\Task3.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkAlgorithms\Task3\bin\Debug\Task3.exe.config

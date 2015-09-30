@@ -3,3 +3,6 @@ C:\Users\Pablo\Desktop\HomeworkAlgorithms\Task6\bin\Debug\Task6.exe
 C:\Users\Pablo\Desktop\HomeworkAlgorithms\Task6\bin\Debug\Task6.pdb
 C:\Users\Pablo\Desktop\HomeworkAlgorithms\Task6\obj\Debug\Task6.exe
 C:\Users\Pablo\Desktop\HomeworkAlgorithms\Task6\obj\Debug\Task6.pdb
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkAlgorithms\Task6\bin\Debug\Task6.exe.config
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkAlgorithms\Task6\obj\Debug\Task6.exe
+C:\Users\Pablo\Desktop\DotNetCourse-Homeworks\HomeworkAlgorithms\Task6\obj\Debug\Task6.pdb
