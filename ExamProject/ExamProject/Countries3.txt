@@ -1,3 +1,4 @@
 Bulgaria|Sofia|7000000
 Italy|Rome|30000000
 Germany|Berlin|50000000
+Sweden|Stockholm|40000000

@@ -1,0 +1,12 @@
+D:\SOFT INTELLECT\DotNet-CourseHomeworks\Homeworks\HomeworkClassesAndObjects\OOPPrinciples\bin\Debug\OOPPrinciples.exe.config
+D:\SOFT INTELLECT\DotNet-CourseHomeworks\Homeworks\HomeworkClassesAndObjects\OOPPrinciples\obj\Debug\OOPPrinciples.csprojResolveAssemblyReference.cache
+D:\SOFT INTELLECT\DotNet-CourseHomeworks\Homeworks\HomeworkClassesAndObjects\OOPPrinciples\bin\Debug\OOPPrinciples.exe
+D:\SOFT INTELLECT\DotNet-CourseHomeworks\Homeworks\HomeworkClassesAndObjects\OOPPrinciples\bin\Debug\OOPPrinciples.pdb
+D:\SOFT INTELLECT\DotNet-CourseHomeworks\Homeworks\HomeworkClassesAndObjects\OOPPrinciples\obj\Debug\OOPPrinciples.exe
+D:\SOFT INTELLECT\DotNet-CourseHomeworks\Homeworks\HomeworkClassesAndObjects\OOPPrinciples\obj\Debug\OOPPrinciples.pdb
+C:\Users\Pablo\Desktop\HomeworkClassesAndObjects\OOPPrinciples\bin\Debug\OOPPrinciples.exe.config
+C:\Users\Pablo\Desktop\HomeworkClassesAndObjects\OOPPrinciples\obj\Debug\OOPPrinciples.exe
+C:\Users\Pablo\Desktop\HomeworkClassesAndObjects\OOPPrinciples\obj\Debug\OOPPrinciples.pdb
+C:\Users\Pablo\Desktop\HomeworkOOPPrinciples\OOPPrinciples\bin\Debug\OOPPrinciples.exe.config
+C:\Users\Pablo\Desktop\HomeworkOOPPrinciples\OOPPrinciples\obj\Debug\OOPPrinciples.exe
+C:\Users\Pablo\Desktop\HomeworkOOPPrinciples\OOPPrinciples\obj\Debug\OOPPrinciples.pdb
