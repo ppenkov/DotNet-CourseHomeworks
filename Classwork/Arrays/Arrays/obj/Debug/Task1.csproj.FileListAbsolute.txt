@@ -1,0 +1,3 @@
+C:\Users\Pablo\Desktop\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Pablo\Desktop\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Pablo\Desktop\Arrays\Arrays\obj\Debug\Arrays.pdb

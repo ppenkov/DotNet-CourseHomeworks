@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 3\bin\Debug\Task 3.exe.config
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 3\bin\Debug\Task 3.exe
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 3\bin\Debug\Task 3.pdb
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 3\obj\Debug\Task 3.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 3\obj\Debug\Task 3.exe
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 3\obj\Debug\Task 3.pdb

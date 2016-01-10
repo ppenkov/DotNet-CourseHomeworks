@@ -1,0 +1,10 @@
+C:\Users\Pablo\Desktop\WindowsFormsApplication1\Task2\bin\Debug\Task2.exe.config
+C:\Users\Pablo\Desktop\WindowsFormsApplication1\Task2\bin\Debug\Task2.exe
+C:\Users\Pablo\Desktop\WindowsFormsApplication1\Task2\bin\Debug\Task2.pdb
+C:\Users\Pablo\Desktop\WindowsFormsApplication1\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\WindowsFormsApplication1\Task2\obj\Debug\Task2.Form1.resources
+C:\Users\Pablo\Desktop\WindowsFormsApplication1\Task2\obj\Debug\Task2.Form2.resources
+C:\Users\Pablo\Desktop\WindowsFormsApplication1\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\Pablo\Desktop\WindowsFormsApplication1\Task2\obj\Debug\Task2.csproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\WindowsFormsApplication1\Task2\obj\Debug\Task2.exe
+C:\Users\Pablo\Desktop\WindowsFormsApplication1\Task2\obj\Debug\Task2.pdb

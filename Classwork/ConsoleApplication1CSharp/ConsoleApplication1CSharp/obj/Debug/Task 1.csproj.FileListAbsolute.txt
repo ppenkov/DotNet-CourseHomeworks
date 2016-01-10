@@ -1,0 +1,3 @@
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\ConsoleApplication1CSharp\bin\Debug\ConsoleApplication1CSharp.exe.config
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\ConsoleApplication1CSharp\obj\Debug\ConsoleApplication1CSharp.exe
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\ConsoleApplication1CSharp\obj\Debug\ConsoleApplication1CSharp.pdb

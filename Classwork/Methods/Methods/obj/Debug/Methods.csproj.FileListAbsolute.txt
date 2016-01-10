@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Pablo\Desktop\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Pablo\Desktop\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Pablo\Desktop\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Pablo\Desktop\Methods\Methods\obj\Debug\Methods.pdb

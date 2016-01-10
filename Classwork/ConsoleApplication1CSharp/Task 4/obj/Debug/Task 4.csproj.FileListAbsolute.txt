@@ -1,0 +1,6 @@
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 4\bin\Debug\Task 4.exe.config
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 4\bin\Debug\Task 4.exe
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 4\bin\Debug\Task 4.pdb
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 4\obj\Debug\Task 4.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 4\obj\Debug\Task 4.exe
+C:\Users\Pablo\Desktop\ConsoleApplication1CSharp\Task 4\obj\Debug\Task 4.pdb
